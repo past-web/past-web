@@ -73,28 +73,22 @@ User support & optimization
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Main Stats -->
+  <!-- Main GitHub Stats (Stable Mirror) -->
   <img
     width="48%"
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=past-web&show_icons=true&theme=dark&hide_border=true"
   />
-
-  <!-- Streak Stats -->
-  <img
-    width="48%"
-    src="https://streak-stats.demolab.com?user=past-web&theme=dark&hide_border=true"
-  />
 </p>
 
 <p align="center">
-  <!-- Profile Details (Very Stable) -->
+  <!-- Profile Summary (Very Stable) -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=past-web&theme=github_dark"
   />
 </p>
 
 <p align="center">
-  <!-- Languages -->
+  <!-- Languages & Activity -->
   <img
     width="32%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=past-web&theme=github_dark"
@@ -108,7 +102,6 @@ User support & optimization
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=past-web&theme=github_dark"
   />
 </p>
-
 
 🌐 Portfolio Website
 
