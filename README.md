@@ -42,26 +42,7 @@ and real-world solutions.
 • Cross-platform environments
 • Continuous learning (+ more)
 ```
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=past-web&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" 
-    height="160"
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=past-web&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" 
-    height="160"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=past-web&theme=dark&hide_border=true" 
-    alt="GitHub Streak"
-  />
-</p>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=past-web" alt="GitHub Streak" /></a>
 ```txt
 Analysis:
 • Consistent technical activity
@@ -80,4 +61,4 @@ Analysis:
 ```
 📬 Connect
 <p align="center"> <a href="https://github.com/past-web"> <img src="https://img.shields.io/badge/GitHub-past--web-black?style=for-the-badge&logo=github"> </a> <a href="#"> <img src="https://img.shields.io/badge/Website-Coming%20Soon-1e90ff?style=for-the-badge"> </a> <a href="#"> <img src="https://img.shields.io/badge/Email-Contact-gray?style=for-the-badge"> </a> </p>
-<!-- FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd700,50:1e90ff,100:000000&height=120&section=footer" /> </p> ```
+<!-- FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd700,50:1e90ff,100:000000&height=120&section=footer" /> </p> 
