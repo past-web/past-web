@@ -30,7 +30,7 @@ and real-world solutions.
 📅 Experience: 11 May 2025 – Present
 ⚙️ Mindset: Analyze → Improve → Deliver
 
-</td> <td width="35%" align="right"> <img src="https://my.spline.design/particleaibrain-t3M7LNGGevdECJv4Nurd0vW1/" width="0"/> <img src="https://user-images.githubusercontent.com/74038190/212284096-8c8b5c1c-67d7-4d4a-bb2a-2ed8e7b9f6d4.gif" width="280" alt="3D Tech"/> </td> </tr> </table>
+</td> <td width="35%" align="right"> <img src="Logo Noir Chic et Élégant pour Agence de Voyage.png" width="0"/> <img src="https://user-images.githubusercontent.com/74038190/212284096-8c8b5c1c-67d7-4d4a-bb2a-2ed8e7b9f6d4.gif" width="280" alt="3D Tech"/> </td> </tr> </table>
 
 🧠 Skills & Technologies
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,sql,windows,linux,git&theme=dark" /> </p>
