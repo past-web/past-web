@@ -53,22 +53,22 @@ and real-world solutions.
 📊 System Analysis & Development Activity
 
 <a href="https://git.io/streak-stats" ><img src="https://github-readme-streak-stats.herokuapp.com?user=past-web" alt="GitHub Streak" /></a>
-```txt
+<!--```txt
 Analysis:
 • Consistent technical activity
 • Strong focus on practical tools & web tech
 • Growth-driven learning pattern
 • Problem-solving oriented workflow
-```
+```--->
 🌐 Explore My Work
-```txt
+<!--```txt
 > ENTER PROJECT URL
 > ─────────────────────────────
 > GitHub Repositories  → https://github.com/past-web?tab=repositories
 > Portfolio Website    → https://your-site-here.com
 > Live Projects        → https://demo-link-here.com
 > Experiments / Tools  → https://github.com/past-web
-```
+``` -->
 📬 Connect
 <p align="center"> <a href="https://github.com/past-web"> <img src="https://img.shields.io/badge/GitHub-past--web-black?style=for-the-badge&logo=github"> </a> <a href="#"> <img src="https://img.shields.io/badge/Website-Coming%20Soon-1e90ff?style=for-the-badge"> </a> <a href="#"> <img src="https://img.shields.io/badge/Email-Contact-gray?style=for-the-badge"> </a> </p>
 <!-- FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd700,50:1e90ff,100:000000&height=120&section=footer" /> </p> 
