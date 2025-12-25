@@ -1,30 +1,21 @@
-# 👋 Hi, I'm Nim Dalay
+<!-- ===================== -->
+<!--  PAST-WEB GITHUB PROFILE  -->
+<!-- ===================== -->
 
-🚀 Passionate about technology, programming, and learning new things  
-💻 Interested in Python, AI, automation, and cybersecurity  
-🇰🇭 From Cambodia
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1e90ff,100:ffd700&height=170&section=header&text=PAST-WEB&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=35" />
+</p>
 
----
-
-## 🛠 Skills
-- Python
-- Git & GitHub
-- Basic AI / Automation
-- Windows & System Tools
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Website+Developer;Tool+Creator;IT+Support+Specialist;Build+%E2%80%A2+Fix+%E2%80%A2+Optimize" />
+</p>
 
 ---
 
-## 📌 Currently
-- 🌱 Learning advanced Python
-- 🔧 Working on personal projects
-- 📚 Improving coding skills
+## 👋 About Me
 
----
-
-## 📫 Contact
-- GitHub: https://github.com/NimDalay
-- Email: your-email@example.com
-
----
-
-⭐ *Thanks for visiting my profile!*
+```txt
+I build modern websites, create useful tools,
+and provide reliable IT support.
+Focused on clean design, performance,
+and real-world solutions.
