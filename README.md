@@ -35,8 +35,7 @@ and real-world solutions.
 <img src="Logo Noir Chic et Élégant pour Agence de Voyage.png" width="40%">
 </p>
 <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BF5FF&center=true&width=435&lines=%E1%9E%9F%E1%9E%BC%E1%9E%98%E1%9E%9F%E1%9F%92%E1%9E%9C%E1%9E%B6%E1%9E%82%E1%9E%98%E1%9E%93%E1%9F%8D%E1%9E%98%E1%9E%80%E1%9E%80%E1%9E%B6%E1%9E%93%E1%9F%8B+github+%E1%9E%9A%E1%9E%94%E1%9E%9F%E1%9F%8B%E1%9E%81%E1%9F%92%E1%9E%89%E1%9E%BB%E1%9F%86;Welcome+to+my+github" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+!;%E1%9E%9F%E1%9E%BC%E1%9E%98%E1%9E%9F%E1%9F%92%E1%9E%9C%E1%9E%B6%E1%9E%82%E1%9E%98%E1%9E%93%E1%9F%8D%E1%9E%98%E1%9E%80%E1%9E%80%E1%9E%B6%E1%9E%93%E1%9F%8B+github+%E1%9E%9A%E1%9E%94%E1%9E%9F%E1%9F%8B%E1%9E%81%E1%9F%92%E1%9E%89%E1%9E%BB%E1%9F%86+!" alt="Typing SVG" /></a>
 </td>
  </tr> </table>
 
