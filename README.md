@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Nim Dalay
 
-<!--
-**past-web/past-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about technology, programming, and learning new things  
+💻 Interested in Python, AI, automation, and cybersecurity  
+🇰🇭 From Cambodia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Python
+- Git & GitHub
+- Basic AI / Automation
+- Windows & System Tools
+
+---
+
+## 📌 Currently
+- 🌱 Learning advanced Python
+- 🔧 Working on personal projects
+- 📚 Improving coding skills
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/NimDalay
+- Email: your-email@example.com
+
+---
+
+⭐ *Thanks for visiting my profile!*
