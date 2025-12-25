@@ -1,88 +1,66 @@
-# 🛠️ Elite GitHub Profile Architect
+<!-- TOP ANIMATED WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1e90ff,100:ffd700&height=170&section=header&text=PAST-WEB&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=35" />
+</p>
 
-<div align="center">
-  <img src="/placeholder.svg?height=300&width=800" alt="Hero Image" width="100%" />
-</div>
-
-<div align="left">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Geist&size=36&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=Building+systems.;Solving+problems.;Shipping+clean+solutions.;past-web" alt="Typing Animation" />
-  </h1>
-
-  <p>
-    <strong>IT Support Engineer • Web & Automation Developer • System & Platform Specialist</strong>
-  </p>
-</div>
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Website+Developer;Tool+Creator;IT+Support+Specialist;Build.+Fix.+Optimize." />
+</p>
 
 ---
 
-### 👤 Profile
-- **Username:** `past-web`
-- **Current Role:** IT Support Engineer (May 11, 2025 – Present)
-- **Focus:** Automation, troubleshooting, and building premium web solutions.
+<!-- HERO SECTION -->
+<table>
+<tr>
+<td width="65%">
 
----
+## 👋 About Me
 
-### 🧠 Skills & Technology Stack
+```txt
+I design websites, build practical tools,
+and support IT systems with precision.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/+_more-FFD700?style=for-the-badge&logoColor=black" />
-</div>
-
----
-
-### 📊 System Analysis & Development Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=past-web&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=FFD700" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=past-web&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</div>
-
-> **Engineer's Insight:** 
-> My development activity reflects a rigorous consistency and a growth-oriented mindset. By analyzing coding patterns and focusing on scalable automation, I ensure every system I build is optimized for performance and reliability. Problem-solving is not just a skill; it's a technical philosophy.
-
----
-
-### 🌐 Explore My Work
-
-```bash
-# System Terminal v1.0.4
-> past-web --list-repositories
-[✔] Fetching repositories...
-[✔] Loading portfolio: [https://portfolio.example.com]
-[✔] Live projects: [https://github.com/past-web/projects]
-[✔] Code experiments: [Stable]
+Daily work includes troubleshooting,
+system maintenance, and automation.
+Focused on clean design, performance,
+and real-world solutions.
 ```
+🧑‍💻 Role: IT Support & Web Developer
+📅 Experience: 11 May 2025 – Present
+⚙️ Mindset: Analyze → Improve → Deliver
 
----
+</td> <td width="35%" align="right"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="0"/> <img src="https://user-images.githubusercontent.com/74038190/212284096-8c8b5c1c-67d7-4d4a-bb2a-2ed8e7b9f6d4.gif" width="280" alt="3D Tech"/> </td> </tr> </table>
 
-### 📬 Connections
+🧠 Skills & Technologies
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,sql,windows,linux,git&theme=dark" /> </p>
 
-<div align="left">
-  <a href="https://github.com/past-web">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:engineer@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://portfolio.example.com">
-    <img src="https://img.shields.io/badge/Website-58A6FF?style=flat-square&logo=browser&logoColor=white" />
-  </a>
-</div>
+```txt
+• Front-end web development
+• Script & tool creation
+• System support & troubleshooting
+• Cross-platform environments
+• Continuous learning (+ more)
+```
+📊 System Analysis & Development Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=past-web&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=past-web&layout=compact&theme=tokyonight&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=past-web&theme=tokyonight&hide_border=true"/> </p>
 
----
-
-<div align="center">
-  <sub>Built with precision by <strong>past-web</strong>.</sub>
-</div>
+```txt
+Analysis:
+• Consistent technical activity
+• Strong focus on practical tools & web tech
+• Growth-driven learning pattern
+• Problem-solving oriented workflow
+```
+🌐 Explore My Work
+```txt
+> ENTER PROJECT URL
+> ─────────────────────────────
+> GitHub Repositories  → https://github.com/past-web?tab=repositories
+> Portfolio Website    → https://your-site-here.com
+> Live Projects        → https://demo-link-here.com
+> Experiments / Tools  → https://github.com/past-web
+```
+📬 Connect
+<p align="center"> <a href="https://github.com/past-web"> <img src="https://img.shields.io/badge/GitHub-past--web-black?style=for-the-badge&logo=github"> </a> <a href="#"> <img src="https://img.shields.io/badge/Website-Coming%20Soon-1e90ff?style=for-the-badge"> </a> <a href="#"> <img src="https://img.shields.io/badge/Email-Contact-gray?style=for-the-badge"> </a> </p>
+<!-- FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd700,50:1e90ff,100:000000&height=120&section=footer" /> </p> ```
