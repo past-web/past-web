@@ -36,10 +36,7 @@ and real-world solutions.
      width="90%"/>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284096-8c8b5c1c-67d7-4d4a-bb2a-2ed8e7b9f6d4.gif"
-     width="280"
-     alt="3D Tech"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Linux" alt="Typing SVG" /></a>
 
 </td>
  </tr> </table>
