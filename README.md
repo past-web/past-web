@@ -32,11 +32,11 @@ and real-world solutions.
 
 </td> <td width="35%" align="right">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-     width="90%"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VxNzZnanJmejdibm5tbzdhbTJ5ZXVibXV0c3Y5d2Jvend0bzAycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy.gif"
+     width="70%"/>
 
 <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Linux" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BF5FF&center=true&width=435&lines=%E1%9E%9F%E1%9E%BC%E1%9E%98%E1%9E%9F%E1%9F%92%E1%9E%9C%E1%9E%B6%E1%9E%82%E1%9E%98%E1%9E%93%E1%9F%8D%E1%9E%98%E1%9E%80%E1%9E%80%E1%9E%B6%E1%9E%93%E1%9F%8B+github+%E1%9E%9A%E1%9E%94%E1%9E%9F%E1%9F%8B%E1%9E%81%E1%9F%92%E1%9E%89%E1%9E%BB%E1%9F%86;Welcome+to+my+github" alt="Typing SVG" /></a>
 
 </td>
  </tr> </table>
