@@ -42,8 +42,25 @@ and real-world solutions.
 • Cross-platform environments
 • Continuous learning (+ more)
 ```
-📊 System Analysis & Development Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=past-web&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=past-web&layout=compact&theme=tokyonight&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=past-web&theme=tokyonight&hide_border=true"/> </p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=past-web&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" 
+    height="160"
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=past-web&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" 
+    height="160"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=past-web&theme=dark&hide_border=true" 
+    alt="GitHub Streak"
+  />
+</p>
 
 ```txt
 Analysis:
