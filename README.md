@@ -42,7 +42,8 @@ and real-world solutions.
 • Cross-platform environments
 • Continuous learning (+ more)
 ```
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=past-web" alt="GitHub Streak" /></a>
+📊 System Analysis & Development Activity
+<a href="https://git.io/streak-stats" align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=past-web" alt="GitHub Streak" /></a>
 ```txt
 Analysis:
 • Consistent technical activity
