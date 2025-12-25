@@ -70,8 +70,44 @@ User support & optimization
 
 🧊 True 3D GitHub Cards
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=past-web&theme=github_dark" /> </p> <p align="center"> <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=past-web&theme=github_dark" /> <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=past-web&theme=github_dark" /> <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=past-web&theme=github_dark" /> </p>
-📊 GitHub Stats
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=past-web&show_icons=true&theme=dark&title_color=1E90FF&icon_color=FFD700&text_color=ffffff&hide_border=true&cache_seconds=1800" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- Main Stats -->
+  <img
+    width="48%"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=past-web&show_icons=true&theme=dark&hide_border=true"
+  />
+
+  <!-- Streak Stats -->
+  <img
+    width="48%"
+    src="https://streak-stats.demolab.com?user=past-web&theme=dark&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <!-- Profile Details (Very Stable) -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=past-web&theme=github_dark"
+  />
+</p>
+
+<p align="center">
+  <!-- Languages -->
+  <img
+    width="32%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=past-web&theme=github_dark"
+  />
+  <img
+    width="32%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=past-web&theme=github_dark"
+  />
+  <img
+    width="32%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=past-web&theme=github_dark"
+  />
+</p>
 
 
 🌐 Portfolio Website
