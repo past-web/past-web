@@ -123,7 +123,7 @@ and real-world solutions.
 ```
 📊 System Analysis & Development Activity
 
-<a href="https://git.io/streak-stats" ><img src="https://github-readme-streak-stats.herokuapp.com?user=past-web" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=past-web&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 <!--```txt
 Analysis:
 • Consistent technical activity
