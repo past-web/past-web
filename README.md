@@ -37,10 +37,9 @@ and real-world solutions.
 
 </td>
  </tr> </table>
-
-<h3 style="font-size:22px;">
+<h2 align="center">
   🧠 Skills &amp; Technologies
-</h3>
+</h2>
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg"
@@ -121,9 +120,18 @@ and real-world solutions.
 • Cross-platform environments
 • Continuous learning (+ more)
 ```
-📊 System Analysis & Development Activity
+<!-- SYSTEM ANALYSIS SECTION -->
+<h2 align="center">
+  📊 System Analysis & Development Activity
+</h2>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=past-web&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ffd700,50:1e90ff,100:000000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=past-web&theme=github-dark&hide_border=true&radius=12" />
+</p>
 <!--```txt
 Analysis:
 • Consistent technical activity
@@ -131,8 +139,11 @@ Analysis:
 • Growth-driven learning pattern
 • Problem-solving oriented workflow
 ```--->
-🌐 Explore My Work
-<!--```txt
+<!--
+<h2 align="center">
+  🌐 Explore My Work
+</h2>
+```txt
 > ENTER PROJECT URL
 > ─────────────────────────────
 > GitHub Repositories  → https://github.com/past-web?tab=repositories
@@ -140,6 +151,8 @@ Analysis:
 > Live Projects        → https://demo-link-here.com
 > Experiments / Tools  → https://github.com/past-web
 ``` -->
-📬 Connect
+<h2 align="center">
+  📬 Connect Me!
+</h2>
 <p align="center"> <a href="https://github.com/past-web"> <img src="https://img.shields.io/badge/GitHub-past--web-black?style=for-the-badge&logo=github"> </a> <a href="#"> <img src="https://img.shields.io/badge/Website-Coming%20Soon-1e90ff?style=for-the-badge"> </a> <a href="#"> <img src="https://img.shields.io/badge/Email-Contact-gray?style=for-the-badge"> </a> </p>
 <!-- FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd700,50:1e90ff,100:000000&height=120&section=footer" /> </p> 
